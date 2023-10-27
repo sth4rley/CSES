@@ -2,7 +2,7 @@
 CSES Problem Set
 
 ## Introductory Problems
-= [ ] Weird Algorithm
+- [ ] Weird Algorithm
 - [ ] Missing Number
 - [ ] Repetitions
 - [ ] Increasing Array
