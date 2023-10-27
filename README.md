@@ -1,2 +1,23 @@
 # CSES
 CSES Problem Set
+
+## Introductory Problems
+[ ] Weird Algorithm
+[ ] Missing Number
+[ ] Repetitions
+[ ] Increasing Array
+[ ] Permutations
+[ ] Number Spiral
+[ ] Two Knights
+[ ] Two Sets
+[ ] Bit Strings
+[ ] Trailing Zeros
+[ ] Coin Piles
+[ ] Palindrome Reorder
+[ ] Gray Code
+[ ] Tower of Hanoi
+[ ] Creating Strings
+[ ] Apple Division
+[ ] Chessboard and Queens
+[ ] Digit Queries
+[ ] Grid Paths
