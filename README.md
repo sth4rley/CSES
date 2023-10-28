@@ -3,7 +3,7 @@ CSES Problem Set
 
 ## Introductory Problems
 - [x] Weird Algorithm
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Repetitions
 - [ ] Increasing Array
 - [ ] Permutations
