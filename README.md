@@ -7,7 +7,7 @@ CSES Problem Set
 - [ ] Repetitions
 - [ ] Increasing Array
 - [ ] Permutations
-- [ ] Number Spiral
+- [x] Number Spiral
 - [ ] Two Knights
 - [ ] Two Sets
 - [ ] Bit Strings
