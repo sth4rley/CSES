@@ -22,7 +22,6 @@ CSES Problem Set
 - [ ] Digit Queries
 - [ ] Grid Paths
 
-
 ## Sorting and Searching
 - [x] Distinct Numbers
 - [ ] Apartments
@@ -59,3 +58,24 @@ CSES Problem Set
 - [ ] Sliding Cost
 - [ ] Movie Festival II
 - [ ] Maximum Subarray Sum II
+
+## Dynamic Programming
+- [x] Dice Combinations
+- [ ] Minimizing Coins
+- [ ] Coin Combinations I
+- [ ] Coin Combinations II
+- [ ] Removing Digits
+- [ ] Grid Paths
+- [ ] Book Shop
+- [ ] Array Description
+- [ ] Counting Towers
+- [ ] Edit Distance
+- [ ] Rectangle Cutting
+- [ ] Money Sums
+- [ ] Removal Game
+- [ ] Two Sets II
+- [ ] Increasing Subsequence
+- [ ] Projects
+- [ ] Elevator Rides
+- [ ] Counting Tilings
+- [ ] Counting Numbers
