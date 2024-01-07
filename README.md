@@ -62,7 +62,7 @@ CSES Problem Set
 ## Dynamic Programming
 - [x] Dice Combinations
 - [ ] Minimizing Coins
-- [ ] Coin Combinations I
+- [x] Coin Combinations I
 - [ ] Coin Combinations II
 - [ ] Removing Digits
 - [ ] Grid Paths
