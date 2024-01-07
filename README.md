@@ -4,7 +4,7 @@ CSES Problem Set
 ## Introductory Problems
 - [x] Weird Algorithm
 - [x] Missing Number
-- [ ] Repetitions
+- [x] Repetitions
 - [ ] Increasing Array
 - [ ] Permutations
 - [x] Number Spiral
