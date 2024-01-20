@@ -29,7 +29,7 @@ CSES Problem Set
 - [ ] Concert Tickets
 - [ ] Restaurant Customers
 - [ ] Movie Festival
-- [ ] Sum of Two Values
+- [x] Sum of Two Values
 - [ ] Maximum Subarray Sum
 - [ ] Stick Lengths
 - [ ] Missing Coin Sum
