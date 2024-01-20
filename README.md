@@ -24,7 +24,7 @@ CSES Problem Set
 
 ## Sorting and Searching
 - [x] Distinct Numbers
-- [ ] Apartments
+- [x] Apartments
 - [ ] Ferris Wheel
 - [ ] Concert Tickets
 - [ ] Restaurant Customers
