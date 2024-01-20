@@ -10,10 +10,10 @@ CSES Problem Set
 - [x] Number Spiral
 - [ ] Two Knights
 - [ ] Two Sets
-- [ ] Bit Strings
+- [x] Bit Strings
 - [ ] Trailing Zeros
 - [ ] Coin Piles
-- [ ] Palindrome Reorder
+- [x] Palindrome Reorder
 - [ ] Gray Code
 - [ ] Tower of Hanoi
 - [ ] Creating Strings
