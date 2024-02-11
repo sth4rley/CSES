@@ -9,7 +9,7 @@ CSES Problem Set
 - [ ] Permutations
 - [x] Number Spiral
 - [ ] Two Knights
-- [ ] Two Sets
+- [x] Two Sets
 - [x] Bit Strings
 - [ ] Trailing Zeros
 - [ ] Coin Piles
